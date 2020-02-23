@@ -4,7 +4,7 @@ This repository houses the data and jupyter notebooks associated with a revision
 
 This project is intended to change Homework 5 and 6 in UC Berkeley's intermediate Data Science course, Data Science 100. Many questions have been adapted from previous homework versions.
 
-# Using the Cook County Assesor's Office open dataset:
+# Using the Cook County Assesor's Office Dataset:
 
 Historically, the course had used a cleaned dataset of housing prices and characteristic from Ames, Iowa that is popularly used to teach linear and logistic regression. While this dataset does work well for education purposes, our team wanted to explore other datasets that were less clean and reflected a more realistic view of data in the world.
 
